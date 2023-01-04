@@ -1,4 +1,4 @@
-# AmazonCellPhoneReviewRatings
+# Amazon Cell Phone Review Ratings
 The goal of this project is to determine whether buying a cell phone from Amazon is worth it or not depending on the reviews from the customers.
 
 The strategy used in this project is sentiment analysis where texts or word reveal an understanding of the user attitude or behavior towards a topic or subject. The two columns that were used for sentiment analysis was the body since it contained the most words. 
