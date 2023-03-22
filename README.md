@@ -9,6 +9,8 @@ The strategy used in this project is sentiment analysis where texts or word reve
 4. Created a python function to determine whether purchasing a cell phone from Amazon is worth it, not worth it, or it depends on the indivdual. The result was neutral meaning it would depend on the individual of how they percieve the phone. These factors could be quality, price, number of GBs, etc.
 5. Printed the score of the reviews and it appeared that more than 17,000 reviews were neutral about buying a cell phone from Amazon which was significantly higher than the positive and negative reviews.
 
+Conclusion: Based on the analysis, most of the reviews are neutral about buying cell phones from Amazon. This would depend on the user experience with the product and the service received from Amazon.
+
 
 References:
 
